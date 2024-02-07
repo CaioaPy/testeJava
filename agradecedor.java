@@ -7,6 +7,6 @@ public class Main {
     System.out.printf("oi mano bao?\n quem é voc?");
     String nome = leitor.nextLine();
 
-    System.out.println("obrigado por ajudar o meu teste " + nome);
+    System.out.printf("obrigado por ajudar o meu teste " + nome);
 	}
 }
