@@ -17,8 +17,8 @@ public class Main {
     int total2 = mesB + ddepois;
     int ultima = total2 - total;
       System.out.printf("Faltam " + ultima + " para o seu aniversário!");
-    System.out.printf("Agora é só apertar enter para fechar o programa!")
-      int fim = nextInt()
+    System.out.printf("Agora é só apertar enter para fechar o programa!");
+      int fim = nextInt();
     
   }
 
