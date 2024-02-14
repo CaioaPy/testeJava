@@ -9,7 +9,7 @@ public class Main {
         System.out.printf("Que dia é hoje? (apenas números)");
     int datual = leitor.nextInt();
     int total = mesA + datual;
-    System.out.printf("Qual o em que você faz aniversário? (apenas números)");
+    System.out.printf("Qual o mês em que você faz aniversário? (apenas números)");
      int mdepois = leitor.nextInt();
     int mesB = mdepois * 30;
     System.out.printf("Qual o dia exato do seu aniversário? (apenas números)");
